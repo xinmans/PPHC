@@ -29,6 +29,15 @@
 9. 细数四代分布式数据库并拆解 TiDB 和 OceanBase（主从、中间件、KV、计算与存储分离、列存储、CAP定理）
 10. 理论无限容量：站在地球表面
 
+### 基于mkdocs部署docker
+
+git clone https://github.com/xinmans/PPHC.git
+cd PPHC
+sudo docker-compose up -d
+
+访问
+http://localhost:28007
+
 ### 作者信息：
 
 1. 姓名：吕文翰
@@ -42,14 +51,4 @@
 本书版权归属于[吕文翰](https://github.com/johnlui)，供 GitHub 平台用户免费阅读。
 # 基于mkdocs构建了在线阅读方式
 
-
-# deploy
-
-<code>
-sudo docker-compose up -d
-
-</code>
-
-访问
-http://localhost:28007
 
