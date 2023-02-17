@@ -30,13 +30,16 @@
 10. 理论无限容量：站在地球表面
 
 ### 基于mkdocs部署docker
-```git clone https://github.com/xinmans/PPHC.git
+```html
+git clone https://github.com/xinmans/PPHC.git
 cd PPHC
 sudo docker-compose up -d
 ```
 
 访问
 http://localhost:28007
+
+![](https://github.com/xinmans/PPHC/screen.png)
 
 ### 作者信息：
 
