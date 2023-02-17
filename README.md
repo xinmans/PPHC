@@ -31,6 +31,7 @@
 
 ### 基于mkdocs部署docker
 ```html
+
 git clone https://github.com/xinmans/PPHC.git
 cd PPHC
 sudo docker-compose up -d
@@ -39,7 +40,7 @@ sudo docker-compose up -d
 访问
 http://localhost:28007
 
-![](https://github.com/xinmans/PPHC/screen.png)
+![](screen.png)
 
 ### 作者信息：
 
