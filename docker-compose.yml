@@ -1,0 +1,7 @@
+version: '3'
+services:
+  pphc:
+    build: .
+    container_name: pphc_docs
+    ports:
+      - "28007:8000"

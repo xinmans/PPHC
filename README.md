@@ -40,3 +40,16 @@
 ### 版权声明
 
 本书版权归属于[吕文翰](https://github.com/johnlui)，供 GitHub 平台用户免费阅读。
+# 基于mkdocs构建了在线阅读方式
+
+
+# deploy
+
+<code>
+sudo docker-compose up -d
+
+</code>
+
+访问
+http://localhost:28007
+

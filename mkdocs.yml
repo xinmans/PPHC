@@ -1,0 +1,17 @@
+site_name: 高并发的哲学原理
+nav:
+    - Home: README.md
+    - Index: 
+      - 01. 找出单点，进行拆分/README.md
+      - 02. Apache 的性能瓶颈与 Nginx 的性能优势/README.md
+      - 03. 基础设施并发：虚拟机与 Kubernetes（k8s）/README.md
+      - 04. 隐藏在语言背后的魔鬼：运行架构为何会成为性能瓶颈/README.md
+      - 05. 拆分网络单点(上)：应用网关、负载均衡和路由器(网关)/README.md
+      - 06. 拆分网络单点(下)：SDN 如何替代百万人民币的负载均衡硬件(网关、LVS、交换机)/README.md
+      - 07. 最难以解决的单点：数据库以及它背后的存储/README.md
+      - 08. 将 InnoDB 剥的一丝不挂：B+ 树与 Buffer Pool/README.md
+      - 09. 细数四代分布式数据库并拆解 TiDB 和 OceanBase（主从、中间件、KV、计算与存储分离、列存储、CAP定理）/README.md
+      - 10. 理论无限容量：站在地球表面/README.md
+theme:
+    name: mkdocs
+    highlightjs: true
